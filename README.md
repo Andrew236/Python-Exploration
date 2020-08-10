@@ -1,2 +1,2 @@
 # Python-Exploration
-This is going to be where I put all of my files related to me learning Python. Here you can see my journey in learning this great language.
+Here is my Python journey. All files related to python will be here sorted by subjects in folders!
